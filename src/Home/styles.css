@@ -1,0 +1,26 @@
+/* styles.css */
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .workflow-svg {
+    width: 40%;
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  /* Add additional styles as needed */
+
+  .exchange-code-button, .get-token-button {
+    background-color: #07ab22;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
