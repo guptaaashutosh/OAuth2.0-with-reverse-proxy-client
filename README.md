@@ -72,3 +72,8 @@ npm start
 
 The OAuth2 React Frontend application will be running at http://localhost:3000.
 
+
+<br>
+<br>
+
+**For any questions or feedback, feel free to reach out to me:** <a href="https://www.linkedin.com/in/aashutosh-gupta-06a8b7210/" target="_blank">Aashutosh Gupta</a>
