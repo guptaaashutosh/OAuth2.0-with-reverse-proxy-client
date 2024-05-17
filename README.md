@@ -11,12 +11,13 @@ This project is the frontend part of the OAuth2 workflow demonstration. It is bu
 - Access to protected resources
 
 ### Prerequisites
-Before you begin, ensure you have the following installed on your machine:
+Before running the OAuth2 React Frontend, ensure you have the following prerequisites installed:
 
-1. Node.js
-2. npm or yarn
-3. Basic understanding of React and OAuth2 concepts
-4. Git for version control
+1. Access to the OAuth2 server backend (refer to the [OAuth2 server repository](https://github.com/guptaaashutosh/OAuth2.0-with-reverse-proxy) for setup instructions)
+2. Node.js
+3. npm or yarn
+4. Basic understanding of React and OAuth2 concepts
+5. Git for version control
 
 ## Project Structure 
 ```
